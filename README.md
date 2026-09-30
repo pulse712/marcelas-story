@@ -64,13 +64,14 @@ crop boxes (they are in pixels of the original image) and re-run the script.
 ## What must never appear on the page
 
 - Home addresses, phone numbers, dates of birth, licence, passport or ID numbers.
-- Profile photos and the names of other people (relatives, previous partners, children).
+- Profile photos and the names of other people (relatives, previous partners, children),
+  except Dottie Belletto, his mother, and Myles, whom the client asked to name.
 - Anything Marcela has not agreed to show.
 
 ## Material deliberately left out of this draft
 
-- The 2025 threat messages and the sworn declaration in `../Marci case/`. They are
-  evidence in an open case; publish only if Marcela's attorney approves.
+- Identification numbers, the passport number, and the home address in the sworn
+  declaration. The declaration's account of the 2025 messages is on the page without those.
 - Screenshots that name other people, describe intimate details of assaults, or
   mention Marcela's legal status.
 - One screenshot of a message to a third person; its source is not confirmed.
