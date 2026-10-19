@@ -93,5 +93,7 @@ crop boxes (they are in pixels of the original image) and re-run the script.
 
 Any static host works (Netlify, Cloudflare Pages, GitHub Pages, or ordinary web hosting).
 Upload the contents of `site/` so that `index.html` sits at the top level. HTTPS should be on.
-Do not add analytics or advertising scripts: visitors may be in unsafe situations, and
-the page promises it does not track them.
+The client asked for the Google Ads tag (conversion ID `AW-18508832545`), and it is in
+the `<head>` of `index.html` with a page-view conversion event. It sets cookies, and the
+footer tells visitors so. Do not add other analytics or advertising scripts: visitors may
+be in unsafe situations.
